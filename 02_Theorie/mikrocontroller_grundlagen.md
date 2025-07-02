@@ -1,6 +1,6 @@
 # 🖥️ Mikrocontroller-Grundlagen
 
-*Für Kursleiter*innen: Grundlegende Konzepte für den Einstieg. Details werden während der praktischen Übungen erklärt.*
+*Für Kursleiter\*innen: Grundlegende Konzepte für den Einstieg. Details werden während der praktischen Übungen erklärt.*
 
 ## Was ist ein Mikrocontroller?
 Ein **Mikrocontroller** ist ein kleiner Computer, der elektronische Geräte steuert - das "Gehirn" für unsere LED-Streifen.

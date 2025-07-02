@@ -1,6 +1,6 @@
 # 🐍 Python-Grundlagen für LED-Programmierung
 
-*Für Kursleiter*innen: Diese Datei enthält die wichtigsten Python-Konzepte für den Kurs. Detaillierte Erklärungen erfolgen während der Kursanleitung.*
+*Für Kursleiter\*innen: Diese Datei enthält die wichtigsten Python-Konzepte für den Kurs. Detaillierte Erklärungen erfolgen während der Kursanleitung.*
 
 ## Warum MicroPython?
 **MicroPython** ist eine vereinfachte Python-Version für Mikrocontroller wie den **Raspberry Pi Pico**. Gleiche Befehle wie "normales" Python, aber optimiert für Hardware-Steuerung.
@@ -128,7 +128,7 @@ def main():
 main()
 ```
 
-## 💡 Kursleiter*innen-Hinweise
+## 💡 Kursleiter\*innen-Hinweise
 - **Hands-on zuerst**: Direkt mit LEDs experimentieren, Theorie parallel erklären
 - **Live-Coding**: Gemeinsam Code entwickeln, Fehler bewusst machen und korrigieren
 - **Pin-Nummern beachten**: GP16 für LED-Streifen, GP2 für einzelne LEDs

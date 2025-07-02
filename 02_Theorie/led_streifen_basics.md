@@ -1,6 +1,6 @@
 # 🌈 LED-Streifen Grundlagen
 
-*Für Kursleiter*innen: Essentielles LED-Wissen für den Kurs. Praktische Details werden- **Level 3**: Regenbogen, kreative Animationeneren erklärt.*
+*Für Kursleiter\*innen: Essentielles LED-Wissen für den Kurs. Praktische Details werden- **Level 3**: Regenbogen, kreative Animationeneren erklärt.*
 
 ## Was sind LED-Streifen?
 **WS2812B LED-Streifen** sind intelligente LEDs, die einzeln steuerbar sind. Jede LED kann 16,7 Millionen verschiedene Farben darstellen.
@@ -55,7 +55,7 @@ leds = NeoPixel(pin, ANZAHL_LEDS)
 
 ## ⚡ Stromverbrauch
 
-### Wichtige Regel für Schüler*innen:
+### Wichtige Regel für Schüler\*innen:
 ```
 1 LED   = ~60mA
 10 LEDs = ~600mA  ✅ Raspberry Pi Pico schafft das
