@@ -17,7 +17,7 @@
 
 ## 🧑‍🏫 Vorbereitung durch Kursleitung (vor dem Kurs)
 ### 📁 `01_Setup/` - Hardware & Software-Vorbereitung
-- **`software_installation.md`** - Thonny-Setup (PC) und MicroPython (Pi Pico) installieren
+- [**`software_installation.md`**](01_Setup/software_installation.md) - Thonny-Setup (PC) und MicroPython (Pi Pico) installieren
 
 *Wichtig: Setup wird komplett von der Kursleitung vorbereitet - Schüler\*innen kommen zu funktionsfähigen Arbeitsplätzen!*
 
@@ -25,18 +25,18 @@
 
 
 ### 📁 `02_Theorie/` - Kompakte Grundlagen (15 Min)
-- **`mikrocontroller_grundlagen.md`** - Raspberry Pi Pico Basics
-- **`led_streifen_basics.md`** - LED-Technik kompakt
-- **`python_grundlagen.md`** - Python-Referenz für Kursleiter\*innen
+- [**`mikrocontroller_grundlagen.md`**](02_Theorie/mikrocontroller_grundlagen.md) - Raspberry Pi Pico Basics
+- [**`led_streifen_basics.md`**](02_Theorie/led_streifen_basics.md) - LED-Technik kompakt
+- [**`python_grundlagen.md`**](02_Theorie/python_grundlagen.md) - Python-Referenz für Kursleiter\*innen
 
 *Kurze Einführung, Details werden live erklärt.*
 
 ### 📁 `03_Beispiele/` - Live-Programming
-- **`00_einzelne_led.py`** - Einzel LED anschliessen und binken lassen
-- **`01_erste_led.py`** - LED-Streifen Basics
-- **`02_farben_wechseln.py`** - Farbexperimente
-- **`03_lauflicht.py`** - Bewegungseffekte
-- **`04_regenbogen.py`** - Spektakuläre Animationen
+- [**`00_einzelne_led.py`**](03_Beispiele/00_einzelne_led.py) - Einzel LED anschliessen und binken lassen
+- [**`01_erste_led.py`**](03_Beispiele/01_erste_led.py) - LED-Streifen Basics
+- [**`02_farben_wechseln.py`**](03_Beispiele/02_farben_wechseln.py) - Farbexperimente
+- [**`03_lauflicht.py`**](03_Beispiele/03_lauflicht.py) - Bewegungseffekte
+- [**`04_regenbogen.py`**](03_Beispiele/04_regenbogen.py) - Spektakuläre Animationen
 
 
 ## 🛠️ Benötigte Hardware
