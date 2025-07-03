@@ -9,7 +9,7 @@ Einfachste LED-Steuerung - LED blinkt 10x.
    • Interne LED: Kleine LED auf dem Pico-Board
 
 🔌 Alternative - Externe LED:
-   • GPIO-Pin 2 (GP2) → Widerstand 220-470Ω → LED → GND
+   • GPIO-Pin (GP16) → Widerstand 220-470Ω → LED → GND
 
 👨‍🏫 Gemeinsam durchgehen!
 """
@@ -21,8 +21,8 @@ import machine
 # Interne LED konfigurieren (Pin 25)
 led = machine.Pin(25, machine.Pin.OUT)
 
-# Alternative: Externe LED an Pin 2 verwenden
-# led = machine.Pin(2, machine.Pin.OUT)  # GP2 → Widerstand 220 bis 470 Ohm → LED → GND
+# Alternative: Externe LED an Pin 16 verwenden
+# led = machine.Pin(16, machine.Pin.OUT)  # GP16 → Widerstand 220 bis 470 Ohm → LED → GND
 
 # 10x blinken
 for i in range(10):
