@@ -32,4 +32,4 @@ for i in range(10):
     time.sleep(0.5)
     print(f"Blink {i+1}/10")
 
-print("� Fertig!")
+print("Fertig!")
