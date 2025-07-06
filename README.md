@@ -32,7 +32,7 @@
 *Kurze Einführung, Details werden live erklärt.*
 
 ### 📁 `03_Beispiele/` - Live-Programming
-- [**`00_einzelne_led.py`**](03_Beispiele/00_einzelne_led.py) - Einzel LED anschliessen und binken lassen
+- [**`00_einzelne_led.py`**](03_Beispiele/00_einzelne_led.py) - Einzel LED anschliessen und 10 mal binken lassen
 - [**`01_erste_led.py`**](03_Beispiele/01_erste_led.py) - LED-Streifen Basics
 - [**`02_farben_wechseln.py`**](03_Beispiele/02_farben_wechseln.py) - Farbexperimente
 - [**`03_lauflicht.py`**](03_Beispiele/03_lauflicht.py) - Bewegungseffekte
