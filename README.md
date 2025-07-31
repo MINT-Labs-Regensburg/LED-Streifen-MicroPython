@@ -44,8 +44,8 @@
 ### Für jede\*n Schüler\*in:
 Das Material können die Schüler\*innen mit nach Hause nehmen
 - 1x Raspberry Pi Pico H mit Header Pins (Mit von uns vorinstalliertem MicroPython)
-- 1x LED + 220 Ohm Widerstand + Jumper Kabeln (weiblich) von uns vorbereitet
-- 1x WS2812B LED-Streifen(10 LEDs) mit drei Anschluss-Jumperkabeln weiblich  rot, blau, gelb von uns vorbereitet
+- 1x LED + 220 Ohm Widerstand + Jumper Kabeln (weiblich rot, blau) von uns vorbereitet
+- 1x WS2812B LED-Streifen (10 LEDs) mit drei Anschluss-Jumperkabeln (weiblich  rot, blau, gelb) von uns vorbereitet
 - 1x USB-A zu Micro-USB Kabel
 
 
