@@ -1,6 +1,6 @@
 # 🌈 LED-Streifen Grundlagen
 
-*Für Kursleiter\*innen: Essentielles LED-Wissen für den Kurs. Praktische Details werden- **Level 3**: Regenbogen, kreative Animationeneren erklärt.*
+*Für Kursleiter\*innen: Essentielles LED-Wissen für den Kurs. Praktische Details werden- **Level 3**: Regenbogen, kreative Animationen erklärt.*
 
 ## Was sind LED-Streifen?
 **WS2812B LED-Streifen** sind intelligente LEDs, die einzeln steuerbar sind. Jede LED kann 16,7 Millionen verschiedene Farben darstellen.
