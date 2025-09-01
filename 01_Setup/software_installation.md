@@ -73,3 +73,9 @@
 
 **Thonny ist jetzt bereit für den LED-Programmier-Kurs!** 🚀
 
+---
+
+## 🔌 Hardware-Hinweis
+
+Die einzelnen LEDs werden von der Kursleitung vorbereitet. Jede LED ist bereits mit einem passenden Vorwiderstand versehen und über Jumperkabel verbunden. Die Anschlüsse für die Farb-LEDs (WS2812B) sind ebenfalls vorbereitet, sodass ihr direkt mit dem Programmieren starten könnt.
+
