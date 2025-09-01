@@ -16,7 +16,6 @@ Eine **LED** (Licht-Emittierende Diode) ist ein elektronisches Bauteil, das Lich
 - 1x LED (z.B. rot)
 - 1x 220 Ohm Widerstand (Schutz für die LED)
 - 2x Jumper-Kabel
-- 1x Breadboard (empfohlen)
 
 ### Schaltskizze:
 ```
