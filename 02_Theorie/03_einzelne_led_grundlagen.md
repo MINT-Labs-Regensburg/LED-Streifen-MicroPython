@@ -27,7 +27,11 @@ LED (-) Kathode → GND (Pico)
 
 - **Kurz**: Das kürzere Bein der LED ist die **Kathode** (Minuspol).
 - **Kante**: Manche LEDs haben eine kleine **Kante** oder Abflachung am Gehäuse – diese zeigt zur Kathode.
+### Beispiel-Foto: Einzelne LED am Raspberry Pi Pico
 
+![Einzelne LED am Raspberry Pi Pico angeschlossen](../img/single_led_pico.jpg)
+
+*Das Foto zeigt eine einzelne LED mit Widerstand, verbunden mit dem Raspberry Pi Pico. Die Anode ist über den Widerstand an GP15 angeschlossen, die Kathode an GND.*
 
 ## 📝 Beispiel-Code
 ```python
