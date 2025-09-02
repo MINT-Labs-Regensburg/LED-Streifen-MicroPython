@@ -1,3 +1,5 @@
+![Einzel-LED Schaltung](../assets/single_led.jpg)
+
 # 💡 Einzel-LED Grundlagen
 
 *Für Kursleiter\*innen: Essentielles Wissen zur einzelnen LED. Praktische Details werden im Kurs live erklärt.*
@@ -29,7 +31,7 @@ LED (-) Kathode → GND (Pico)
 - **Kante**: Manche LEDs haben eine kleine **Kante** oder Abflachung am Gehäuse – diese zeigt zur Kathode.
 ### Beispiel-Foto: Einzelne LED am Raspberry Pi Pico
 
-![Einzelne LED am Raspberry Pi Pico angeschlossen](../img/single_led_pico.jpg)
+![Einzelne LED am Raspberry Pi Pico angeschlossen](../assets/single_led_pico.jpg)
 
 *Das Foto zeigt eine einzelne LED mit Widerstand, verbunden mit dem Raspberry Pi Pico. Die Anode ist über den Widerstand an GP15 angeschlossen, die Kathode an GND.*
 
