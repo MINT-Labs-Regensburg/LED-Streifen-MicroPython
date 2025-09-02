@@ -1,4 +1,4 @@
-![Einzel-LED Schaltung](../assets/single_led.jpg)
+
 
 # 💡 Einzel-LED Grundlagen
 
@@ -24,7 +24,7 @@ Eine **LED** (Licht-Emittierende Diode) ist ein elektronisches Bauteil, das Lich
 LED (+) Anode  → Widerstand → GP15 (Pico)
 LED (-) Kathode → GND (Pico)
 ```
-
+![Einzel-LED Schaltung](../assets/single_led.jpg)
 ### Merksatz für LED: Kurz, Kathode, Kante
 
 - **Kurz**: Das kürzere Bein der LED ist die **Kathode** (Minuspol).
