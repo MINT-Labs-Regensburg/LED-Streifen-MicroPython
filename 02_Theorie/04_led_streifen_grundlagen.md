@@ -41,6 +41,12 @@ LED-Streifen    →    Raspberry Pi Pico
 🟢 DIN (Daten)  →    GP16
 ```
 
+### Beispielbild: LED-Streifen
+
+![WS2812B LED-Streifen](../assets/LED_streifen.jpg)
+
+*Das Bild zeigt einen typischen WS2812B LED-Streifen, wie er im Kurs verwendet wird.*
+
 ### Einfaches Setup-Schema:
 ```python
 # Standard-Konfiguration für den Kurs
