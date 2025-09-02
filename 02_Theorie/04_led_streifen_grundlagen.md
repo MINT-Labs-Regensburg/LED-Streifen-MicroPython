@@ -46,6 +46,8 @@ LED-Streifen    →    Raspberry Pi Pico
 ![WS2812B LED-Streifen](../assets/LED_streifen.jpg)
 
 *Das Bild zeigt einen typischen WS2812B LED-Streifen, wie er im Kurs verwendet wird.*
+> 💡 **Hinweis:** Falls Jumperkabel verlötet werden sollen, achtet darauf, dass sie Kupfer-Litzen besitzen. Günstige Jumperkabel bestehen oft aus CCA (Copper Clad Aluminum) und lassen sich schlecht löten.
+
 
 ### Einfaches Setup-Schema:
 ```python

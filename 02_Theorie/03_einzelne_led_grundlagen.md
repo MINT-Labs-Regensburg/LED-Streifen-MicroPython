@@ -33,6 +33,10 @@ LED (-) Kathode → GND (Pico)
 
 ![Einzelne LED am Raspberry Pi Pico angeschlossen](../assets/single_led_pico.jpg)
 
+> 💡 **Hinweis:** Falls Jumperkabel verlötet werden sollen, achtet darauf, dass sie Kupfer-Litzen besitzen. Günstige Jumperkabel bestehen oft aus CCA (Copper Clad Aluminum) und lassen sich schlecht löten.
+
+
+
 *Das Foto zeigt eine einzelne LED mit Widerstand, verbunden mit dem Raspberry Pi Pico. Die Anode ist über den Widerstand an GP15 angeschlossen, die Kathode an GND.*
 
 ## 📝 Beispiel-Code

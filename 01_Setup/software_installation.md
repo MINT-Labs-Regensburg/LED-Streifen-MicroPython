@@ -77,7 +77,5 @@
 
 ## 🔌 Hardware-Hinweis
 
-Die Anschlüsse für die Farb-LEDs (WS2812B) sind ebenfalls vorbereitet, sodass ihr direkt mit dem Programmieren starten könnt.
-
-> 💡 **Hinweis:** Falls Jumperkabel verlötet werden sollen, achtet darauf, dass sie Kupfer-Litzen besitzen. Günstige Jumperkabel bestehen oft aus CCA (Copper Clad Aluminum) und lassen sich schlecht löten.
+Die Anschlüsse für die Farb-LEDs (WS2812B) und die einzel LEDs sind vorbereitet, sodass ihr direkt mit dem Programmieren starten könnt.
 
