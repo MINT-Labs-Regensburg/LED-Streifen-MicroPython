@@ -77,5 +77,7 @@
 
 ## 🔌 Hardware-Hinweis
 
-Die einzelnen LEDs werden von der Kursleitung vorbereitet. Jede LED ist bereits mit einem passenden Vorwiderstand versehen und über Jumperkabel verbunden. Die Anschlüsse für die Farb-LEDs (WS2812B) sind ebenfalls vorbereitet, sodass ihr direkt mit dem Programmieren starten könnt.
+Die Anschlüsse für die Farb-LEDs (WS2812B) sind ebenfalls vorbereitet, sodass ihr direkt mit dem Programmieren starten könnt.
+
+> 💡 **Hinweis:** Falls Jumperkabel verlötet werden sollen, achtet darauf, dass sie Kupfer-Litzen besitzen. Günstige Jumperkabel bestehen oft aus CCA (Copper Clad Aluminum) und lassen sich schlecht löten.
 
