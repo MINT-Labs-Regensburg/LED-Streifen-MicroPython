@@ -6,7 +6,7 @@
 **Dauer**: 2-3 Stunden  
 **Format**: **Vollständig angeleiteter Präsenzkurs**  
 **Editor**: **Thonny IDE** (benutzerfreundlichster Python-Editor)  
-**Hardware**: Raspberry Pi Pico + WS2812B LED-Streifen  
+**Hardware**: Raspberry Pi Pico + USB A-C Kabel + WS2812B LED-Streifen  
 
 ### 🏆 Lernziele
 - ✅ Raspberry Pi Pico verstehen und verwenden
@@ -19,7 +19,7 @@
 ### 📁 `01_Setup/` - Hardware & Software-Vorbereitung
 - [**`software_installation.md`**](01_Setup/software_installation.md) - Thonny-Setup (PC) und MicroPython (Pi Pico) installieren
 
-*Wichtig: Setup wird komplett von der Kursleitung vorbereitet - Schüler\*innen kommen zu funktionsfähigen Arbeitsplätzen!*
+*Wichtig: Setup wird komplett von der Kursleitung vorbereitet - Schüler\*innen kommen zu funktionsfähigen Arbeitsplätzen*
 
 ## 🚦 Kursdurchführung
 
