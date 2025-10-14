@@ -131,7 +131,7 @@ main()
 ## 💡 Kursleiter\*innen-Hinweise
 - **Hands-on zuerst**: Direkt mit LEDs experimentieren, Theorie parallel erklären
 - **Live-Coding**: Gemeinsam Code entwickeln, Fehler bewusst machen und korrigieren
-- **Pin-Nummern beachten**: GP16 für LED-Streifen, GP2 für einzelne LEDs
+- **Pin-Nummern beachten**: GP16 für LED-Streifen oder GP16 für einzelne LEDs
 - **Debugging**: `print()`-Befehle nutzen, schrittweise testen
 
 *Die detaillierten Erklärungen und Übungen werden während des Kurses interaktiv durchgeführt.*

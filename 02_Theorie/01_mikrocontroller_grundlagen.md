@@ -31,6 +31,7 @@ USB: Direkte Verbindung
 ```
 GP16   → LED-Streifen (Datenleitung)
 GP16   → Einzelne LED (zum Testen)
+GP25   → Interne eingebaute Raspberry Pico LED 
 GND    → Minus-Pol (Erdung)
 3V3    → 3,3V Stromversorgung
 VSYS   → 5V für LED-Streifen
