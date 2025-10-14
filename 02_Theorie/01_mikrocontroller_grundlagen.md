@@ -30,7 +30,7 @@ USB: Direkte Verbindung
 ### Wichtige Pins für LED-Projekte:
 ```
 GP16   → LED-Streifen (Datenleitung)
-GP2    → Einzelne LED (zum Testen)
+GP16   → Einzelne LED (zum Testen)
 GND    → Minus-Pol (Erdung)
 3V3    → 3,3V Stromversorgung
 VSYS   → 5V für LED-Streifen
