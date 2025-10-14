@@ -29,7 +29,7 @@
 ### ⚡ MicroPython flashen
 
 1. **Menü:** `Ausführen` → `Konfigurieren des Interpreters...`
-2. **Button:** `"MicroPython installieren oder aktualisieren"` anklicken
+2. **Button:** `"MicroPython installieren oder aktualisieren"` rechts unten anklicken
 3. **Target Volume:** `"RPI-RP2"` auswählen
 4. **MicroPython Family:** `"RP2"` auswählen
 5. **Gerät/variant:** `"Raspberry Pi Pico"` auswählen
@@ -51,7 +51,7 @@
 ### 🎯 Interpreter einstellen
 
 1. **Interpreter auswählen:** Unten rechts in Thonny `"MicroPython (Raspberry Pi Pico)"` und den passenden COM-Port auswählen  
-   (z.B. `"Board CDC @COM3"`)
+   (z.B. `"MicroPython (Raspberry Pi Pico) Board CDC @COMXXX"`)
 
 > ⚠️ **Wichtig:** Die Option `"MicroPython (Raspberry Pi Pico)"` erscheint nur, wenn MicroPython bereits auf dem Pico installiert ist.
 
