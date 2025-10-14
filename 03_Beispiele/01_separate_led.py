@@ -1,5 +1,5 @@
 """
-💡 Beispiel 0: Einzelne LED (Einstieg)
+💡 Beispiel 1: Einzelne eingebaute LED (Einstieg)
 =============================
 
 Einfachste LED-Steuerung - LED blinkt 10x.
@@ -8,10 +8,9 @@ Einfachste LED-Steuerung - LED blinkt 10x.
    • Nur Raspberry Pi Pico (keine extra LED nötig!)
    • Interne LED: Kleine LED auf dem Pico-Board
 
-🔌 Alternative - Externe LED:
+🔌 Alternative - Externe einzel LED:
    • GPIO-Pin (GP16) → Widerstand 220-470Ω → LED → GND
 
-👨‍🏫 Gemeinsam durchgehen!
 """
 
 import time

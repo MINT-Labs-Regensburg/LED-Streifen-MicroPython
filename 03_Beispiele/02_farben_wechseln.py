@@ -1,4 +1,4 @@
-# LED-Beispiel 2: Farben wechseln
+# Streifen-LED-Beispiel 2: Farben wechseln
 # Zeigt verschiedene Grundfarben nacheinander
 
 import time

@@ -21,7 +21,7 @@ Eine **LED** (Licht-Emittierende Diode) ist ein elektronisches Bauteil, das Lich
 
 ### Schaltskizze:
 ```
-LED (+) Anode  → Widerstand → GP15 (Pico)
+LED (+) Anode  → Widerstand → GP16 (Pico)
 LED (-) Kathode → GND (Pico)
 ```
 ![Einzel-LED Schaltung](../assets/single_led.jpg)
@@ -37,14 +37,14 @@ LED (-) Kathode → GND (Pico)
 
 
 
-*Das Foto zeigt eine einzelne LED mit Widerstand, verbunden mit dem Raspberry Pi Pico. Die Anode ist über den Widerstand an GP15 angeschlossen, die Kathode an GND.*
+*Das Foto zeigt eine einzelne LED mit Widerstand, verbunden mit dem Raspberry Pi Pico. Die Anode ist über den Widerstand an GP16 angeschlossen, die Kathode an GND.*
 
 ## 📝 Beispiel-Code
 ```python
 import machine
 import time
 
-led = machine.Pin(15, machine.Pin.OUT)
+led = machine.Pin(16, machine.Pin.OUT)
 
 # LED blinken lassen
 for i in range(10):
@@ -65,5 +65,3 @@ for i in range(10):
 - Zeitsteuerung mit `time.sleep()`
 
 ---
-
-**Nächster Schritt:** LED-Streifen mit mehreren LEDs steuern!

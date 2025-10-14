@@ -1,4 +1,4 @@
-# LED-Beispiel 4: Regenbogen
+# Streifen-LED-Beispiel 4: Regenbogen
 # Alle LEDs zeigen verschiedene Regenbogenfarben
 
 import time

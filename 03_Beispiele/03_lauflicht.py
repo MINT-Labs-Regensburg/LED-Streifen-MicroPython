@@ -1,4 +1,4 @@
-# LED-Beispiel 3: Lauflicht
+# Streifen-LED-Beispiel 3: Lauflicht
 # Eine LED wandert durch den Streifen
 
 import time
