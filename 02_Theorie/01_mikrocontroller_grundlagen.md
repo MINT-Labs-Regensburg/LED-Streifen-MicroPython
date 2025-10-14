@@ -35,3 +35,7 @@ GND    → Minus-Pol (Erdung)
 3V3    → 3,3V Stromversorgung
 VSYS   → 5V für LED-Streifen
 ```
+
+## Raspberry Pi Pico GPIO-Pinout
+
+![Raspberry Pi Pico GPIO Pinout](../assets/raspberry-pi-pico-gpio.png)
