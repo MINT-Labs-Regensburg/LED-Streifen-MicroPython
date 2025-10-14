@@ -26,7 +26,7 @@
 
 ### 📁 `02_Theorie/` - Kompakte Grundlagen (15 Min)
 - [**`mikrocontroller_grundlagen.md`**](02_Theorie/01_mikrocontroller_grundlagen.md) - Raspberry Pi Pico Basics
-- [**`led_streifen_basics.md`**](02_Theorie/04_led_streifen_basics.md) - LED-Technik kompakt
+- [**`led_streifen_grundlagen.md`**](02_Theorie/04_led_streifen_grundlagen.md) - LED-Technik kompakt
 - [**`python_grundlagen.md`**](02_Theorie/02_python_grundlagen.md) - Python-Referenz für Kursleiter\*innen
 
 *Kurze Einführung, Details werden live erklärt.*
