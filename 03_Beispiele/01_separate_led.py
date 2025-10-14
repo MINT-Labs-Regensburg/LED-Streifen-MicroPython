@@ -21,7 +21,7 @@ import machine
 # Interne LED konfigurieren (Pin 25)
 led = machine.Pin(25, machine.Pin.OUT)
 
-# Alternative: Externe LED an Pin 16 verwenden
+# Alternative: Externe LED an GP16 verwenden
 # led = machine.Pin(16, machine.Pin.OUT)  # GP16 → Widerstand 220 bis 470 Ohm → LED → GND
 
 # 10x blinken
