@@ -6,7 +6,7 @@
 **Dauer**: 2-3 Stunden  
 **Format**: **Vollständig angeleiteter Präsenzkurs**  
 **Editor**: **Thonny IDE** (benutzerfreundlichster Python-Editor)  
-**Hardware**: Raspberry Pi Pico + USB A-C Kabel + WS2812B LED-Streifen  
+**Hardware**: Raspberry Pi Pico + USB Kabel + WS2812B LED-Streifen + Einzel LED mit Widerstand
 
 ### 🏆 Lernziele
 - ✅ Raspberry Pi Pico verstehen und verwenden
@@ -42,10 +42,11 @@
 ## 🛠️ Benötigte Hardware
 
 ### Für jede\*n Schüler\*in:
-Das Material können die Schüler\*innen mit nach Hause nehmen
+Dieses Material können die Schüler\*innen mit nach Hause nehmen
 - 1x Raspberry Pi Pico H mit Header Pins (Mit von uns vorinstalliertem MicroPython)
 - 1x LED + 220 Ohm Widerstand + Jumper Kabeln (weiblich rot, blau) von uns vorbereitet
 - 1x WS2812B LED-Streifen (10 LEDs) mit drei Anschluss-Jumperkabeln (weiblich  rot, blau, gelb) von uns vorbereitet
-- 1x USB-A zu Micro-USB Kabel
+- 1x USB-A zu USB-C Kabel
 
+Die Schüler\*innen benötigen zu Hause einen Computer mit Internetzugriff um darauf Thonny zu installieren. (Windows, Mac, Linux)
 
