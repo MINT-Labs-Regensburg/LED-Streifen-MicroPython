@@ -53,6 +53,20 @@ for i in range(10):
     led.value(0)  # AUS
     time.sleep(0.5)
 ```
+---
+
+## 🧩 Weitere Programmieraufgaben
+
+- **Wie blinkt die LED schneller?**
+
+
+- **Wie blinkt die LED häufiger?**
+ 
+
+- **Wie verwende ich einen anderen PIN?**
+ 
+
+- **Wie lasse ich die LED am Anfang 3 Sekunden eingeschaltet, bevor das Blinken beginnt?**
 
 ## ⚠️ Häufige Fehler
 - LED falsch herum eingesteckt (Anode/Kathode vertauscht)

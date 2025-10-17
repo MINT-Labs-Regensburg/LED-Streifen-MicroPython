@@ -18,10 +18,10 @@ import machine
 
 
 # Interne LED konfigurieren (Pin 25)
-led = machine.Pin(25, machine.Pin.OUT)
+# led = machine.Pin(25, machine.Pin.OUT)
 
 # Alternative: Externe LED an GP16 verwenden
-# led = machine.Pin(16, machine.Pin.OUT)  # GP16 → Widerstand 220 bis 470 Ohm → LED → GND
+led = machine.Pin(16, machine.Pin.OUT)  # GP16 → Widerstand 220 bis 470 Ohm → LED → GND
 
 # 10x blinken
 for i in range(10):
@@ -33,3 +33,10 @@ for i in range(10):
 
 led.on()
 print("Fertig!")
+
+#####################################
+# Weitere Programmieraufgaben
+# Wie blinkt die LED schneller?
+# Wie blinkt die LED häufiger?
+# Wie verwende ich einen anderen PIN?
+# Wie lasse ich die LED am Anfang 3 Sekunden eingeschaltet, bevor das Blinken beginnt?
