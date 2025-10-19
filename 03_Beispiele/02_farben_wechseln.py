@@ -1,6 +1,13 @@
 # Streifen-LED-Beispiel 2: Farben wechseln
 # Zeigt verschiedene Grundfarben nacheinander
 
+###################################################
+# Programmieraufgaben
+# 1 Lasse die dritte LED in deiner Lieblingsfarbe leuchten
+# 2 Alle LEDs rot
+# 3 Alle LEDs in deiner Lieblingsfarbe
+# 4 Regenbogen
+
 import time
 import machine
 from neopixel import NeoPixel

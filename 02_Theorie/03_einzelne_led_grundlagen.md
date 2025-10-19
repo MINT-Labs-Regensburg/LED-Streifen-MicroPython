@@ -1,8 +1,18 @@
-
-
 # 💡 Einzel-LED Grundlagen
 
-*Für Kursleiter\*innen: Essentielles Wissen zur einzelnen LED. Praktische Details werden im Kurs live erklärt.*
+
+## 🕯️ Wie wurde Licht erzeugt, bevor es LEDs gab?
+
+Vor der Erfindung der LED wurden verschiedene Lichtquellen genutzt:
+
+- **Kerzen und Öllampen:** Die ältesten künstlichen Lichtquellen, brennen mit einer Flamme.
+- **Glühlampen:** Seit ca. 1879, erzeugen Licht durch einen erhitzten Draht (Wolfram-Faden) im Vakuum.
+- **Leuchtstofflampen:** Nutzen Gasentladung und Leuchtstoffe, sind effizienter als Glühlampen.
+- **Halogenlampen:** Weiterentwicklung der Glühlampe, heller und langlebiger.
+- **Gaslampen:** (z.B. Straßenbeleuchtung im 19. Jahrhundert)
+
+Erst ab den 1960er Jahren wurden LEDs entwickelt und revolutionierten die Beleuchtung durch ihre Effizienz, Langlebigkeit und Vielseitigkeit.
+
 
 ## Was ist eine LED?
 Eine **LED** (Licht-Emittierende Diode) ist ein elektronisches Bauteil, das Licht abgibt, wenn Strom hindurchfließt. Sie ist sehr effizient und in vielen Farben erhältlich.
