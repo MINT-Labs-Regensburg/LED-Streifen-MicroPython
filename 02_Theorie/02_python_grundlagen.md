@@ -49,9 +49,9 @@ import machine
 from neopixel import NeoPixel
 
 # Hardware konfigurieren
-PIN = 16  # GPIO16 für LED-Streifen
+LED_GP = 16  # GPIO16 für LED-Streifen
 ANZAHL_LEDS = 10
-pin = machine.Pin(PIN, machine.Pin.OUT)
+pin = machine.Pin(LED_GP, machine.Pin.OUT)
 leds = NeoPixel(pin, ANZAHL_LEDS)
 
 # Farben definieren
@@ -112,8 +112,8 @@ import time, machine
 from neopixel import NeoPixel
 
 # 2. HARDWARE SETUP
-PIN = 16
-leds = NeoPixel(machine.Pin(PIN, machine.Pin.OUT), 10)
+LED_GP = 16
+leds = NeoPixel(machine.Pin(LED_GP, machine.Pin.OUT), 10)
 
 # 3. FARBEN
 ROT = (255, 0, 0)
