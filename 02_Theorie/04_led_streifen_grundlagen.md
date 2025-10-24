@@ -55,9 +55,9 @@ LED-Streifen    →    Raspberry Pi Pico
 import machine
 from neopixel import NeoPixel
 
-PIN = 16              # GPIO16 für Datenleitung
+LED_GP = 16              # GPIO16 für Datenleitung
 ANZAHL_LEDS = 10      # Standard-Streifenlänge
-pin = machine.Pin(PIN, machine.Pin.OUT)
+pin = machine.Pin(LED_GP, machine.Pin.OUT)
 leds = NeoPixel(pin, ANZAHL_LEDS)
 ```
 

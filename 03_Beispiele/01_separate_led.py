@@ -40,3 +40,4 @@ print("Fertig!")
 # Wie blinkt die LED häufiger?
 # Wie verwende ich einen anderen PIN?
 # Wie lasse ich die LED am Anfang 3 Sekunden eingeschaltet, bevor das Blinken beginnt?
+
