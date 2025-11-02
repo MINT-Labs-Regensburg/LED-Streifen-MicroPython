@@ -7,20 +7,21 @@
 
 ---
 
-### 🎯 Kurs-Übersicht
+## 🎯 Kurs-Übersicht
 **Zielgruppe**: Schüler\*innen  
-**Dauer**: 2-3 Stunden  
+**Dauer**: 3 Stunden  
 **Format**: **Vollständig angeleiteter Präsenzkurs**  
 **Editor**: **Thonny IDE** (benutzerfreundlichster Python-Editor)  
 **Hardware**: Raspberry Pi Pico + USB Kabel + WS2812B LED-Streifen + Einzel LED mit Widerstand
 
-### 🏆 Lernziele
+## 🏆 Lernziele
 - ✅ Raspberry Pi Pico verstehen und verwenden
 - ✅ LED-Streifen anschließen und programmieren
 - ✅ Python-Code für Hardware schreiben
 - ✅ Eigene LED-Animationen entwickeln
 
 ## 🧑‍🏫 Vorbereitung durch Kursleitung (vor dem Kurs)
+
 ### 📁 `01_Setup/` - Hardware & Software-Vorbereitung
 - [**`software_installation.md`**](01_Setup/software_installation.md) - Thonny-Setup (PC) und MicroPython (Pi Pico) installieren
 
@@ -28,21 +29,30 @@
 
 ## 🚦 Kursdurchführung
 
-
 ### 📁 `02_Theorie/` - Kompakte Grundlagen (15 Min)
 - [**`mikrocontroller_grundlagen.md`**](02_Theorie/01_mikrocontroller_grundlagen.md) - Raspberry Pi Pico Basics
 - [**`einzelne_led_grundlagen.md`**](02_Theorie/03_einzelne_led_grundlagen.md) - Einzelne LED Grundlagen
 - [**`led_streifen_grundlagen.md`**](02_Theorie/04_led_streifen_grundlagen.md) - LED-Technik kompakt
 - [**`python_grundlagen.md`**](02_Theorie/02_python_grundlagen.md) - Python-Referenz für Kursleiter\*innen
 
-*Kurze Einführung, Details werden live erklärt.*
+### 📁 `Python Grundlagen`
 
-### 📁 `03_Beispiele/` - Live-Programming
+Für eine Python-Einführung siehe unseren separaten Kurs **[PYTHON-PYGAME](https://github.com/MINT-Labs-Regensburg/PYTHON-PYGAME)** 
+
+In **Teil 2: Python - Listen, Schleifen & Co.** findest du Übungen zu
+- **Variablen** - Daten speichern und verwenden
+- **If Statements** - Deinem Programm Entscheidungen beibringen
+- **Schleifen** - Lass den Computer für dich arbeiten!
+
+Ein Kürzübersicht zu Python ist hier
+
+📄 **[Python Cheat Sheet](assets/python-cheat-sheet.pdf)** - Kurzübersicht Python
+
+### 📁 `03_Beispiele/` - Live-Programming LED
 - [**`01_separate_led.py`**](03_Beispiele/01_separate_led.py) - Einzel LED anschliessen und 10 mal binken lassen
 - [**`02_farben_wechseln.py`**](03_Beispiele/02_farben_wechseln.py) - Farbexperimente
 - [**`03_lauflicht.py`**](03_Beispiele/03_lauflicht.py) - Bewegungseffekte
 - [**`04_regenbogen.py`**](03_Beispiele/04_regenbogen.py) - Spektakuläre Animationen
-
 
 ## 🛠️ Benötigte Hardware
 
@@ -50,7 +60,7 @@
 Dieses Material können die Schüler\*innen mit nach Hause nehmen
 - 1x Raspberry Pi Pico H mit Header Pins (Mit von uns vorinstalliertem MicroPython)
 - 1x LED + 220 Ohm Widerstand + Jumper Kabeln (weiblich rot, blau) von uns vorbereitet
-- 1x WS2812B LED-Streifen (10 LEDs) mit drei Anschluss-Jumperkabeln (weiblich  rot, blau, gelb) von uns vorbereitet
+- 1x WS2812B LED-Streifen (10 LEDs) mit drei Anschluss-Jumperkabeln (weiblich rot, blau, gelb) von uns vorbereitet
 - 1x USB-A zu USB-C Kabel
 
 Die Schüler\*innen benötigen zu Hause einen Computer mit Internetzugriff um darauf Thonny zu installieren. (Windows, Mac, Linux)
