@@ -24,7 +24,13 @@
 ### `01_Setup/` - Hardware & Software-Vorbereitung
 - [**`software_installation.md`**](01_Setup/software_installation.md) - Thonny-Setup (PC) und MicroPython (Pi Pico) installieren
 
-*Wichtig: Setup wird komplett von der Kursleitung vorbereitet - Schüler\*innen kommen zu funktionsfähigen Arbeitsplätzen*
+## Ausdrucken Kursunterlagen
+
+Diese Materialien sollten für die Schüler\*innen ausgedruckt werden:
+
+- [**`aufgabe_alle.py`**](04_Aufgaben/aufgabe_alle.py) - Alle Programmieraufgaben in einer Datei
+- [**`python-cheat-sheet.pdf`**](assets/python-cheat-sheet.pdf) - Python Kurzübersicht zum Nachschlagen
+- [**`raspberry-pi-pico-gpio.png`**](assets/raspberry-pi-pico-gpio.png) - GPIO Pin-Belegung des Raspberry Pi Pico
 
 ## Kursdurchführung
 
@@ -32,7 +38,6 @@
 - [**`mikrocontroller_grundlagen.md`**](02_Theorie/01_mikrocontroller_grundlagen.md) - Raspberry Pi Pico Basics
 - [**`einzelne_led_grundlagen.md`**](02_Theorie/03_einzelne_led_grundlagen.md) - Einzelne LED Grundlagen
 - [**`led_streifen_grundlagen.md`**](02_Theorie/04_led_streifen_grundlagen.md) - LED-Technik kompakt
-- [**`python_grundlagen.md`**](02_Theorie/02_python_grundlagen.md) - Python-Referenz für Kursleiter\*innen
 
 ### `03_Python Grundlagen/` - Programmierung in Python
 
@@ -43,9 +48,7 @@ In **Teil 2: Python - Listen, Schleifen & Co.** findest du Übungen zu
 - **If Statements** - Deinem Programm Entscheidungen beibringen
 - **Schleifen** - Lass den Computer für dich arbeiten!
 
-Eine Kürzübersicht zu Python ist hier
-
-**[Python Cheat Sheet](assets/python-cheat-sheet.pdf)** - Kurzübersicht Python
+Eine Kürzübersicht zu Python ist hier **[Python Cheat Sheet](assets/python-cheat-sheet.pdf)**
 
 ### `04_Aufgaben/` - Live-Programming LED Streifen
 
@@ -56,7 +59,7 @@ Diese Programmieraufgaben werden während des Kurses gemeinsam gelöst:
 - [**`aufgabe03.py`**](04_Aufgaben/aufgabe03.py) - Ping Pong Lauflicht
 - [**`aufgabe04.py`**](04_Aufgaben/aufgabe04.py) - Pulsierender Regenbogen
 
-Jede Aufgabe baut auf den gelernten Beispielen auf und wird live im Kurs programmiert.
+Jede Aufgabe wird live im Kurs programmiert.
 
 ## Benötigte Hardware
 
