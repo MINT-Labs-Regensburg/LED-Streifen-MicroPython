@@ -1,4 +1,4 @@
-# 🎓 LED-Streifen Python Programmierung mit Raspberry Pi Pico
+# LED-Streifen Python Programmierung mit Raspberry Pi Pico
 
 ## 💝 Herzlichen Dank
 
@@ -7,35 +7,34 @@
 
 ---
 
-## 🎯 Kurs-Übersicht
+## Kurs-Übersicht
 **Zielgruppe**: Schüler\*innen  
 **Dauer**: 3 Stunden  
-**Format**: **Vollständig angeleiteter Präsenzkurs**  
 **Editor**: **Thonny IDE** (benutzerfreundlichster Python-Editor)  
 **Hardware**: Raspberry Pi Pico + USB Kabel + WS2812B LED-Streifen + Einzel LED mit Widerstand
 
-## 🏆 Lernziele
-- ✅ Raspberry Pi Pico verstehen und verwenden
-- ✅ LED-Streifen anschließen und programmieren
-- ✅ Python-Code für Hardware schreiben
-- ✅ Eigene LED-Animationen entwickeln
+## Lernziele
+- Raspberry Pi Pico verstehen und verwenden
+- LED-Streifen anschließen und programmieren
+- Python-Code für Hardware schreiben
+- Eigene LED-Animationen entwickeln
 
-## 🧑‍🏫 Vorbereitung durch Kursleitung (vor dem Kurs)
+## Vorbereitung durch Kursleitung (vor dem Kurs)
 
-### 📁 `01_Setup/` - Hardware & Software-Vorbereitung
+### `01_Setup/` - Hardware & Software-Vorbereitung
 - [**`software_installation.md`**](01_Setup/software_installation.md) - Thonny-Setup (PC) und MicroPython (Pi Pico) installieren
 
 *Wichtig: Setup wird komplett von der Kursleitung vorbereitet - Schüler\*innen kommen zu funktionsfähigen Arbeitsplätzen*
 
-## 🚦 Kursdurchführung
+## Kursdurchführung
 
-### 📁 `02_Theorie/` - Kompakte Grundlagen (15 Min)
+### `02_Theorie/` - Kompakte Grundlagen (15 Min)
 - [**`mikrocontroller_grundlagen.md`**](02_Theorie/01_mikrocontroller_grundlagen.md) - Raspberry Pi Pico Basics
 - [**`einzelne_led_grundlagen.md`**](02_Theorie/03_einzelne_led_grundlagen.md) - Einzelne LED Grundlagen
 - [**`led_streifen_grundlagen.md`**](02_Theorie/04_led_streifen_grundlagen.md) - LED-Technik kompakt
 - [**`python_grundlagen.md`**](02_Theorie/02_python_grundlagen.md) - Python-Referenz für Kursleiter\*innen
 
-### 📁 `Python Grundlagen`
+### `03_Python Grundlagen/` - Programmierung in Python
 
 Für eine Python-Einführung siehe unseren separaten Kurs **[PYTHON-PYGAME](https://github.com/MINT-Labs-Regensburg/PYTHON-PYGAME)** 
 
@@ -44,17 +43,22 @@ In **Teil 2: Python - Listen, Schleifen & Co.** findest du Übungen zu
 - **If Statements** - Deinem Programm Entscheidungen beibringen
 - **Schleifen** - Lass den Computer für dich arbeiten!
 
-Ein Kürzübersicht zu Python ist hier
+Eine Kürzübersicht zu Python ist hier
 
-📄 **[Python Cheat Sheet](assets/python-cheat-sheet.pdf)** - Kurzübersicht Python
+**[Python Cheat Sheet](assets/python-cheat-sheet.pdf)** - Kurzübersicht Python
 
-### 📁 `03_Beispiele/` - Live-Programming LED
-- [**`01_separate_led.py`**](03_Beispiele/01_separate_led.py) - Einzel LED anschliessen und 10 mal binken lassen
-- [**`02_farben_wechseln.py`**](03_Beispiele/02_farben_wechseln.py) - Farbexperimente
-- [**`03_lauflicht.py`**](03_Beispiele/03_lauflicht.py) - Bewegungseffekte
-- [**`04_regenbogen.py`**](03_Beispiele/04_regenbogen.py) - Spektakuläre Animationen
+### `04_Aufgaben/` - Live-Programming LED Streifen
 
-## 🛠️ Benötigte Hardware
+Diese Programmieraufgaben werden während des Kurses gemeinsam gelöst:
+
+- [**`aufgabe01.py`**](04_Aufgaben/aufgabe01.py) - SOS Signal mit einzelner LED
+- [**`aufgabe02.py`**](04_Aufgaben/aufgabe02.py) - Ampelschaltung mit LED-Streifen
+- [**`aufgabe03.py`**](04_Aufgaben/aufgabe03.py) - Ping Pong Lauflicht
+- [**`aufgabe04.py`**](04_Aufgaben/aufgabe04.py) - Pulsierender Regenbogen
+
+Jede Aufgabe baut auf den gelernten Beispielen auf und wird live im Kurs programmiert.
+
+## Benötigte Hardware
 
 ### Für jede\*n Schüler\*in:
 Dieses Material können die Schüler\*innen mit nach Hause nehmen
