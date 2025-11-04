@@ -50,7 +50,7 @@ while True:
 
     # Jede LED mit Regenbogenfarbe und Helligkeit
     for i in range(ANZAHL_LEDS):
-        farbe = regenbogen[i % len(regenbogen)]
+        farbe = regenbogen[i]
 
         # Farbe mit Helligkeit multiplizieren
         rot = int(farbe[0] * helligkeit)
