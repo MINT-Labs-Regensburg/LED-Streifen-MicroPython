@@ -12,7 +12,6 @@ der zwischen 0.1 und 1.0 wechselt
 
 import machine
 import time
-import math
 from neopixel import NeoPixel
 
 LED_GP = 16
@@ -36,11 +35,18 @@ regenbogen = [
 
 print("Pulsierender Regenbogen startet...")
 
-zaehler = 0
+helligkeit = 0.1
+richtung = 0.05  # Schrittweite
 
 while True:
-    # Helligkeitsfaktor berechnen (zwischen 0.1 und 1.0)
-    helligkeit = 0.5 + 0.4 * math.sin(zaehler * 0.1)
+    # Helligkeit ändern
+    helligkeit += richtung
+
+    # Richtung umkehren wenn Grenzen erreicht
+    if helligkeit >= 1.0:
+        richtung = -0.05
+    elif helligkeit <= 0.1:
+        richtung = 0.05
 
     # Jede LED mit Regenbogenfarbe und Helligkeit
     for i in range(ANZAHL_LEDS):
@@ -54,5 +60,4 @@ while True:
         leds[i] = (rot, gruen, blau)
 
     leds.write()
-    time.sleep(0.05)
-    zaehler += 1
+    time.sleep(0.1)
