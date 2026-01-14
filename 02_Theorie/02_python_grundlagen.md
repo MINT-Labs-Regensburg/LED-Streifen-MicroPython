@@ -1,7 +1,5 @@
 # 🐍 Python-Grundlagen für LED-Programmierung
 
-*Für Kursleiter\*innen: Diese Datei enthält die wichtigsten Python-Konzepte für den Kurs. Detaillierte Erklärungen erfolgen während der Kursanleitung.*
-
 ## Warum MicroPython?
 **MicroPython** ist eine vereinfachte Python-Version für Mikrocontroller wie den **Raspberry Pi Pico**. Gleiche Befehle wie "normales" Python, aber optimiert für Hardware-Steuerung.
 
@@ -52,25 +50,7 @@ from neopixel import NeoPixel
 LED_GP = 16  # GPIO16 für LED-Streifen
 ANZAHL_LEDS = 10
 pin = machine.Pin(LED_GP, machine.Pin.OUT)
-leds = NeoPixel(pin, ANZAHL_LEDS)
 
-# Farben definieren
-ROT = (255, 0, 0)
-GRUEN = (0, 255, 0)
-BLAU = (0, 0, 255)
-```
-
-### LED-Steuerung
-```python
-# Einzelne LED setzen
-leds[0] = ROT           # LED 0 rot
-leds[1] = GRUEN         # LED 1 grün
-leds.write()            # WICHTIG: Änderungen anzeigen!
-
-# Alle LEDs auf einmal
-for i in range(10):
-    leds[i] = BLAU
-leds.write()
 ```
 
 ## 🚨 Häufige Fehler

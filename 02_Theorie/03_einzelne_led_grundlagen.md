@@ -17,11 +17,6 @@ Erst ab den 1960er Jahren wurden LEDs entwickelt und revolutionierten die Beleuc
 ## Was ist eine LED?
 Eine **LED** (Licht-Emittierende Diode) ist ein elektronisches Bauteil, das Licht abgibt, wenn Strom hindurchfließt. Sie ist sehr effizient und in vielen Farben erhältlich.
 
-### Vorteile für den Kurs:
-- **Sehr einfach**: Nur 2 Anschlüsse (Plus/Minus)
-- **Sicher**: Geringe Spannung, keine Verletzungsgefahr
-- **Sofort sichtbarer Effekt**: Erfolgserlebnis garantiert
-
 ## 🔌 Anschluss einer LED am Raspberry Pi Pico
 
 ### Benötigte Bauteile:
@@ -82,10 +77,3 @@ for i in range(10):
 - LED falsch herum eingesteckt (Anode/Kathode vertauscht)
 - Widerstand vergessen (LED wird zu heiß)
 - Falscher Pin im Code
-
-## 🎯 Lernziele
-- Schaltplan lesen und umsetzen
-- GPIO Pin ansteuern
-- Zeitsteuerung mit `time.sleep()`
-
----
