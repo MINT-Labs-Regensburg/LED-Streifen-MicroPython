@@ -28,7 +28,7 @@ ORANGE = (255, 128, 0)   # Rot + wenig Grün
 ```
 LED-Streifen    →    Raspberry Pi Pico
 ────────────         ────────────────
-🔴 5V (Strom)   →    VSYS (5V)
+🔴 5V (Strom)   →    VSYS (5V) Pin 39
 ⚫ GND (Minus)   →    GND
 🟢 DIN (Daten)  →    GP16
 ```
