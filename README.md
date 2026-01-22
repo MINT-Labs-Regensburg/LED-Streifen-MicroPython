@@ -72,3 +72,4 @@ Dieses Material können die Schüler\*innen mit nach Hause nehmen
 
 Die Schüler\*innen benötigen zu Hause einen Computer mit Internetzugriff um darauf Thonny zu installieren. (Windows, Mac, Linux)
 
+## Mehr Projekte und Anleitungen findest du [hier](https://wiki.mint-labs.de/)
