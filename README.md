@@ -54,6 +54,10 @@ Eine Kürzübersicht zu Python ist hier **[Python Cheat Sheet](assets/python-che
 
 Diese Programmieraufgaben werden während des Kurses gemeinsam gelöst:
 
+- [**`Alle Aufgaben`**](04_Aufgaben/aufgaben_alle.py) - Alle Aufgaben in einer Datei
+
+#### `04_Aufgaben/` - Lösungen
+
 - [**`loesung01.py`**](04_Aufgaben/loesung01.py) - SOS Signal mit einzelner LED
 - [**`loesung02.py`**](04_Aufgaben/loesung02.py) - Ampelschaltung mit LED-Streifen
 - [**`loesung03.py`**](04_Aufgaben/loesung03.py) - Ping Pong Lauflicht
